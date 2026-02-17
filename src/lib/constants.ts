@@ -6,8 +6,8 @@ export const categoriesData = [
     projects: [
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "hoorvi" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -17,19 +17,11 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
-          },
-          {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            value: "Eliana",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "SAMM",
           },
         ],
         imgSrc:
@@ -37,8 +29,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "Lakme" },
+          { label: "files", value: "04" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -48,19 +40,15 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Siddarth Sharma",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
+            label: "Talents",
+            value: "Mr Gaba",
           },
           {
             label: "Assist",
             value: "Ishika",
-          },
-          {
-            label: "Hair & makeup",
-            value: "Akash pant",
           },
         ],
         imgSrc:
@@ -68,8 +56,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "fragnote" },
+          { label: "files", value: "01" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -78,20 +66,16 @@ export const categoriesData = [
             value: "Shivamm Paathak",
           },
           {
-            label: "Talents",
-            value: "Castille",
+            label: "Film direction, set design & art",
+            value: "Vidushi Gupta Paathak",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            label: "Cinematography & editor",
+            value: "Devesh Kapoor",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "Harshita Joshi",
           },
         ],
         imgSrc:
@@ -99,8 +83,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "estrella" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -110,7 +94,7 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Luiza Moura",
           },
           {
             label: "Styling",
@@ -130,7 +114,7 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
+          { label: "for", value: "estrella" },
           { label: "files", value: "03" },
           { label: "year", value: "2025" },
         ],
@@ -169,8 +153,8 @@ export const categoriesData = [
     projects: [
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "hoorvi" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -180,19 +164,11 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
-          },
-          {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            value: "Eliana",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "SAMM",
           },
         ],
         imgSrc:
@@ -200,8 +176,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "Lakme" },
+          { label: "files", value: "04" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -211,19 +187,15 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Siddarth Sharma",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
+            label: "Talents",
+            value: "Mr Gaba",
           },
           {
             label: "Assist",
             value: "Ishika",
-          },
-          {
-            label: "Hair & makeup",
-            value: "Akash pant",
           },
         ],
         imgSrc:
@@ -231,8 +203,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "fragnote" },
+          { label: "files", value: "01" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -241,20 +213,16 @@ export const categoriesData = [
             value: "Shivamm Paathak",
           },
           {
-            label: "Talents",
-            value: "Castille",
+            label: "Film direction, set design & art",
+            value: "Vidushi Gupta Paathak",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            label: "Cinematography & editor",
+            value: "Devesh Kapoor",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "Harshita Joshi",
           },
         ],
         imgSrc:
@@ -262,8 +230,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "estrella" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -273,7 +241,7 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Luiza Moura",
           },
           {
             label: "Styling",
@@ -293,7 +261,7 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
+          { label: "for", value: "estrella" },
           { label: "files", value: "03" },
           { label: "year", value: "2025" },
         ],
@@ -332,8 +300,8 @@ export const categoriesData = [
     projects: [
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "hoorvi" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -343,19 +311,11 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
-          },
-          {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            value: "Eliana",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "SAMM",
           },
         ],
         imgSrc:
@@ -363,8 +323,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "Lakme" },
+          { label: "files", value: "04" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -374,19 +334,15 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Siddarth Sharma",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
+            label: "Talents",
+            value: "Mr Gaba",
           },
           {
             label: "Assist",
             value: "Ishika",
-          },
-          {
-            label: "Hair & makeup",
-            value: "Akash pant",
           },
         ],
         imgSrc:
@@ -394,8 +350,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "fragnote" },
+          { label: "files", value: "01" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -404,20 +360,16 @@ export const categoriesData = [
             value: "Shivamm Paathak",
           },
           {
-            label: "Talents",
-            value: "Castille",
+            label: "Film direction, set design & art",
+            value: "Vidushi Gupta Paathak",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            label: "Cinematography & editor",
+            value: "Devesh Kapoor",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "Harshita Joshi",
           },
         ],
         imgSrc:
@@ -425,8 +377,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "estrella" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -436,7 +388,7 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Luiza Moura",
           },
           {
             label: "Styling",
@@ -456,7 +408,7 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
+          { label: "for", value: "estrella" },
           { label: "files", value: "03" },
           { label: "year", value: "2025" },
         ],
@@ -495,8 +447,8 @@ export const categoriesData = [
     projects: [
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "hoorvi" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -506,19 +458,11 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
-          },
-          {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            value: "Eliana",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "SAMM",
           },
         ],
         imgSrc:
@@ -526,8 +470,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "Lakme" },
+          { label: "files", value: "04" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -537,19 +481,15 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Siddarth Sharma",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
+            label: "Talents",
+            value: "Mr Gaba",
           },
           {
             label: "Assist",
             value: "Ishika",
-          },
-          {
-            label: "Hair & makeup",
-            value: "Akash pant",
           },
         ],
         imgSrc:
@@ -557,8 +497,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "fragnote" },
+          { label: "files", value: "01" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -567,20 +507,16 @@ export const categoriesData = [
             value: "Shivamm Paathak",
           },
           {
-            label: "Talents",
-            value: "Castille",
+            label: "Film direction, set design & art",
+            value: "Vidushi Gupta Paathak",
           },
           {
-            label: "Styling",
-            value: "Sonali Khulla",
-          },
-          {
-            label: "Assist",
-            value: "Ishika",
+            label: "Cinematography & editor",
+            value: "Devesh Kapoor",
           },
           {
             label: "Hair & makeup",
-            value: "Akash pant",
+            value: "Harshita Joshi",
           },
         ],
         imgSrc:
@@ -588,8 +524,8 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
-          { label: "files", value: "03" },
+          { label: "for", value: "estrella" },
+          { label: "files", value: "02" },
           { label: "year", value: "2025" },
         ],
         credits: [
@@ -599,7 +535,7 @@ export const categoriesData = [
           },
           {
             label: "Talents",
-            value: "Castille",
+            value: "Luiza Moura",
           },
           {
             label: "Styling",
@@ -619,7 +555,7 @@ export const categoriesData = [
       },
       {
         info: [
-          { label: "brand", value: "estrella" },
+          { label: "for", value: "estrella" },
           { label: "files", value: "03" },
           { label: "year", value: "2025" },
         ],
