@@ -38,7 +38,6 @@ const ProjectGallery = () => {
             <Scene images={projectImages} activeProject={activeProject} />
           </Canvas>
         </div>
-
         <FilmStrip
           images={projectImages}
           activeProject={activeProject}
