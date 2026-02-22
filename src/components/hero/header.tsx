@@ -10,7 +10,11 @@ const Header = () => {
           <Globe className="size-4" />
           <span>IN / DEL</span>
         </div>
-        <div>TC 16:36:45</div>
+        <div className="relative">
+          <p>TC 16:36:45</p>
+          <div className="absolute top-0 -right-4 h-2 w-2 rounded-full bg-red-500" />
+          <div className="absolute top-0 -right-4 h-2 w-2 animate-ping rounded-full bg-red-500" />
+        </div>
       </div>
       <p className={`${allison.className} flex-1/3 text-center text-4xl`}>
         Shivamm Paathak
