@@ -25,7 +25,7 @@ const ProjectGallery = () => {
   const projectImages = activeCategory.projects.map((p) => p.imgSrc);
 
   return (
-    <div className="relative flex h-full items-center justify-center overflow-hidden bg-linear-to-br from-black via-zinc-900 to-black px-16">
+    <div className="relative flex h-full items-center justify-center overflow-hidden px-8">
       <div className="relative flex h-[600px] w-full items-center justify-between gap-20">
         <ProjectInfo
           activeProject={activeProject}

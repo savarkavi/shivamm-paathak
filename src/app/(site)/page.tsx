@@ -17,7 +17,7 @@ export default function Home() {
             pointerEvents: "none",
           }}
         />
-        <div className="hero-container flex h-screen w-full flex-col justify-between overflow-hidden bg-stone-950">
+        <div className="hero-container flex h-screen w-full flex-col justify-between overflow-hidden bg-linear-to-br from-black via-zinc-900 to-black">
           <CategoryProvider>
             <Header />
             <ProjectGallery />
