@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <div className="flex items-center justify-between border-b border-dashed border-gray-500 px-4 py-3">
+    <div className="flex items-center justify-between border-b border-dashed border-gray-500 px-8 py-3">
       <div className="flex flex-1/3 items-center gap-6">
         <div className="flex items-center gap-2 text-sm">
           <Globe className="size-4" />
