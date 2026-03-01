@@ -2,7 +2,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import Image from "next/image";
-import { useRef } from "react";
+import { useEffect, useRef } from "react";
 import ProjectNumber from "./project-number";
 
 interface FilmStripProps {
@@ -25,6 +25,18 @@ const FilmStrip = ({
   setActiveProject,
 }: FilmStripProps) => {
   const stripContainer = useRef<HTMLDivElement | null>(null);
+  const scrollDebounceTimer = useRef<ReturnType<typeof setTimeout> | null>(
+    null,
+  );
+
+  // Clean up timer on unmount
+  useEffect(() => {
+    return () => {
+      if (scrollDebounceTimer.current) {
+        clearTimeout(scrollDebounceTimer.current);
+      }
+    };
+  }, []);
 
   useGSAP(() => {
     if (!stripContainer.current || !images || images.length === 0) return;
@@ -54,7 +66,14 @@ const FilmStrip = ({
 
             if (newIndex !== currentIndex) {
               currentIndex = newIndex;
-              setActiveProject(newIndex);
+
+              // Debounce: wait 500ms after scrolling stops before triggering animation
+              if (scrollDebounceTimer.current) {
+                clearTimeout(scrollDebounceTimer.current);
+              }
+              scrollDebounceTimer.current = setTimeout(() => {
+                setActiveProject(newIndex);
+              }, 500);
             }
           },
         },
